@@ -2,3 +2,5 @@
 
 /rust/target
 /rust/*.lock
+
+result.txt
